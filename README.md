@@ -11,6 +11,9 @@ A modern resume analysis tool built with Python and Streamlit that helps student
 ✅ **Missing Skills Detection** – Identify gaps for target career paths  
 ✅ **Resume Improvement Suggestions** – Actionable feedback  
 ✅ **Interactive Dashboard** – Real-time analysis results  
+## Screenshots
+
+![Screenshot](Screenshot%20(30).png)
 
 ## Technology Stack
 
